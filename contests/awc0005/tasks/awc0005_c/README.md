@@ -1,0 +1,1 @@
+# [C - Staircase-Shaped Flower Bed](https://atcoder.jp/contests/awc0005/tasks/awc0005_c)

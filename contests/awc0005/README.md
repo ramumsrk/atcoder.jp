@@ -1,0 +1,6 @@
+# [AtCoder Weekday Contest 0005 Beta](https://atcoder.jp/contests/awc0005)
+1. [A - Reward of Multiples](https://atcoder.jp/contests/awc0005/tasks/awc0005_a)
+2. [B - Updating the Report Card](https://atcoder.jp/contests/awc0005/tasks/awc0005_b)
+3. [C - Staircase-Shaped Flower Bed](https://atcoder.jp/contests/awc0005/tasks/awc0005_c)
+4. [D - Splitting Delivery Packages](https://atcoder.jp/contests/awc0005/tasks/awc0005_d)
+5. [E - Mountain Height Survey](https://atcoder.jp/contests/awc0005/tasks/awc0005_e)

@@ -1,0 +1,1 @@
+# [D - Splitting Delivery Packages](https://atcoder.jp/contests/awc0005/tasks/awc0005_d)
