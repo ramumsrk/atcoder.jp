@@ -1,0 +1,8 @@
+# [Tasks](https://atcoder.jp/contests/abc445/tasks/)
+1. [A - Strong Word](https://atcoder.jp/contests/abc445/tasks/abc445_a)
+2. [B - Center Alignment](https://atcoder.jp/contests/abc445/tasks/abc445_b)
+3. [C - Sugoroku Destination](https://atcoder.jp/contests/abc445/tasks/abc445_c)
+4. [D - Reconstruct Chocolate](https://atcoder.jp/contests/abc445/tasks/abc445_d)
+5. [E - Many LCMs](https://atcoder.jp/contests/abc445/tasks/abc445_e)
+6. [F - Exactly K Steps 2](https://atcoder.jp/contests/abc445/tasks/abc445_f)
+7. [G - Knight Placement](https://atcoder.jp/contests/abc445/tasks/abc445_g)
