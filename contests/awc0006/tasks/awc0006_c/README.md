@@ -1,0 +1,1 @@
+# [C - Air Conditioner Temperature Adjustment](https://atcoder.jp/contests/awc0006/tasks/awc0006_c)

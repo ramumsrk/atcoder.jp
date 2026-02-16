@@ -1,0 +1,1 @@
+# [E - Store Sales Management](https://atcoder.jp/contests/awc0006/tasks/awc0006_e)

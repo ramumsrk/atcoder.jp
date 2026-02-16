@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0006/tasks/)
+1. [A - Target Shooting Game](https://atcoder.jp/contests/awc0006/tasks/awc0006_a)
+2. [B - Efficient Quests](https://atcoder.jp/contests/awc0006/tasks/awc0006_b)
+3. [C - Air Conditioner Temperature Adjustment](https://atcoder.jp/contests/awc0006/tasks/awc0006_c)
+4. [D - Placement of Security Guards](https://atcoder.jp/contests/awc0006/tasks/awc0006_d)
+5. [E - Store Sales Management](https://atcoder.jp/contests/awc0006/tasks/awc0006_e)
