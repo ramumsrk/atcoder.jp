@@ -1,0 +1,1 @@
+# [E - Organizing the Bookshelf](https://atcoder.jp/contests/awc0008/tasks/awc0008_e)

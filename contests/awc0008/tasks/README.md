@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0008/tasks/)
+1. [A - Planting the Flower Bed](https://atcoder.jp/contests/awc0008/tasks/awc0008_a)
+2. [B - Buildings Visible from the Sea](https://atcoder.jp/contests/awc0008/tasks/awc0008_b)
+3. [C - Anomaly Detection in Sensor Data](https://atcoder.jp/contests/awc0008/tasks/awc0008_c)
+4. [D - Orchard Harvest](https://atcoder.jp/contests/awc0008/tasks/awc0008_d)
+5. [E - Organizing the Bookshelf](https://atcoder.jp/contests/awc0008/tasks/awc0008_e)

@@ -1,0 +1,1 @@
+# [A - Planting the Flower Bed](https://atcoder.jp/contests/awc0008/tasks/awc0008_a)

@@ -1,0 +1,1 @@
+# [B - Buildings Visible from the Sea](https://atcoder.jp/contests/awc0008/tasks/awc0008_b)
