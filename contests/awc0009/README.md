@@ -4,3 +4,5 @@
 3. [C - Apple Harvest](https://atcoder.jp/contests/awc0009/tasks/awc0009_c)
 4. [D - Planting Flower Seeds](https://atcoder.jp/contests/awc0009/tasks/awc0009_d)
 5. [E - Temperature Fluctuation Survey](https://atcoder.jp/contests/awc0009/tasks/awc0009_e)
+## Standings
+[standings](https://atcoder.jp/contests/awc0009/standings)
