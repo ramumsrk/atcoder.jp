@@ -1,0 +1,1 @@
+# [E - Temperature Fluctuation Survey](https://atcoder.jp/contests/awc0009/tasks/awc0009_e)

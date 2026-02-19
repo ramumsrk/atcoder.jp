@@ -1,0 +1,1 @@
+# [D - Planting Flower Seeds](https://atcoder.jp/contests/awc0009/tasks/awc0009_d)

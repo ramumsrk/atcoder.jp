@@ -1,4 +1,5 @@
 # [Contests](https://atcoder.jp/contests/)
+* [AtCoder Weekday Contest 0009 Beta](https://atcoder.jp/contests/awc0009)
 * [AtCoder Weekday Contest 0008 Beta](https://atcoder.jp/contests/awc0008)
 * [AtCoder Weekday Contest 0006 Beta](https://atcoder.jp/contests/awc0006)
 * [AtCoder Weekday Contest 0005 Beta](https://atcoder.jp/contests/awc0005)
