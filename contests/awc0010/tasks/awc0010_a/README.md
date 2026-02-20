@@ -1,0 +1,1 @@
+# [A - Distributing Requests to Servers](https://atcoder.jp/contests/awc0010/tasks/awc0010_a)
