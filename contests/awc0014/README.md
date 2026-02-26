@@ -1,1 +1,6 @@
 # [AtCoder Weekday Contest 0014 Beta](https://atcoder.jp/contests/awc0014)
+1. [A - Loading Cargo](https://atcoder.jp/contests/awc0014/tasks/awc0014_a)
+2. [B - Marathon](https://atcoder.jp/contests/awc0014/tasks/awc0014_b)
+3. [C - Catch the Last Train!](https://atcoder.jp/contests/awc0014/tasks/awc0014_c)
+4. [D - Round-Trip Delivery](https://atcoder.jp/contests/awc0014/tasks/awc0014_d)
+5. [E - Flowerbed Watering Management](https://atcoder.jp/contests/awc0014/tasks/awc0014_e)
