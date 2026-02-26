@@ -1,8 +1,3 @@
 # [Contests](https://atcoder.jp/contests/)
-* [AtCoder Weekday Contest 0010 Beta](https://atcoder.jp/contests/awc0010)
-* [AtCoder Weekday Contest 0009 Beta](https://atcoder.jp/contests/awc0009)
-* [AtCoder Weekday Contest 0008 Beta](https://atcoder.jp/contests/awc0008)
-* [AtCoder Weekday Contest 0006 Beta](https://atcoder.jp/contests/awc0006)
-* [AtCoder Weekday Contest 0005 Beta](https://atcoder.jp/contests/awc0005)
-* [AtCoder Beginner Contest 445](https://atcoder.jp/contests/abc445)
-* [AtCoder Beginner Contest 444](https://atcoder.jp/contests/abc444)
+## AWC - AtCoder Weekday Contest
+14. [AtCoder Weekday Contest 0014 Beta](./awc0014/)
