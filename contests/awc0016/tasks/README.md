@@ -1,1 +1,6 @@
 # [Tasks](https://atcoder.jp/contests/awc0016/tasks)
+1. [A - Over Budget](https://atcoder.jp/contests/awc0016/tasks/awc0016_a)
+2. [B - Exam Preparation](https://atcoder.jp/contests/awc0016/tasks/awc0016_b)
+3. [C - Choosing Souvenirs](https://atcoder.jp/contests/awc0016/tasks/awc0016_c)
+4. [D - The Path of Carrying Luggage](https://atcoder.jp/contests/awc0016/tasks/awc0016_d)
+5. [E - Optimal Route for a Sightseeing Tour](https://atcoder.jp/contests/awc0016/tasks/awc0016_e)
