@@ -1,0 +1,1 @@
+# [C - Consecutive Card Distribution](https://atcoder.jp/contests/awc0019/tasks/awc0019_c)
