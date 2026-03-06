@@ -1,0 +1,1 @@
+# [B - Climbing to the Summit](https://atcoder.jp/contests/awc0020/tasks/awc0020_b)

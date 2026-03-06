@@ -1,0 +1,1 @@
+# [D - Wi-Fi Spot Connection](https://atcoder.jp/contests/awc0020/tasks/awc0020_d)

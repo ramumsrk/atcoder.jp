@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0020/tasks)
+1. [A - Equalizing Water](./awc0020_a/)
+2. [B - Climbing to the Summit](./awc0020_b/)
+3. [C - Organizing the Bookshelf](./awc0020_c/)
+4. [D - Wi-Fi Spot Connection](./awc0020_d/)
+5. [E - Shelving Books on a Bookshelf](./awc0020_e/)

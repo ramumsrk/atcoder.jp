@@ -1,0 +1,1 @@
+# [A - Equalizing Water](https://atcoder.jp/contests/awc0020/tasks/awc0020_a)
