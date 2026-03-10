@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0022/tasks)
+1. [A - Battery Level and Charger Arrival](./awc0022_a/)
+2. [B - Target Score for the Test](./awc0022_b/)
+3. [C - Road Pothole Survey](./awc0022_c/)
+4. [D - Simultaneous Control of Light Bulb Panels](./awc0022_d/)
+5. [E - Delivery Driver's Route](./awc0022_e/)

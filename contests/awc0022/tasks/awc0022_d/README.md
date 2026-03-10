@@ -1,0 +1,1 @@
+# [D - Simultaneous Control of Light Bulb Panels](https://atcoder.jp/contests/awc0022/tasks/awc0022_d)
