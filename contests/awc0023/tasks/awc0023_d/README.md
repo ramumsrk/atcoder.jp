@@ -1,0 +1,1 @@
+# [D - Package Delivery](https://atcoder.jp/contests/awc0023/tasks/awc0023_d)

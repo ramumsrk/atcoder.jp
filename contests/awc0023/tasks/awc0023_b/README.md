@@ -1,0 +1,1 @@
+# [B - Bus Tour](https://atcoder.jp/contests/awc0023/tasks/awc0023_b)

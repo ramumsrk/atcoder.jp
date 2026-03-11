@@ -1,5 +1,6 @@
 # [Contests](https://atcoder.jp/contests/)
 ## AWC - AtCoder Weekday Contest
+22. [AtCoder Weekday Contest 0023 Beta](./awc0023/)
 22. [AtCoder Weekday Contest 0022 Beta](./awc0022/)
 21. [AtCoder Weekday Contest 0021 Beta](./awc0021/)
 20. [AtCoder Weekday Contest 0020 Beta](./awc0020/)
