@@ -1,0 +1,1 @@
+# [AtCoder Weekday Contest 0024 Beta](https://atcoder.jp/contests/awc0024)
