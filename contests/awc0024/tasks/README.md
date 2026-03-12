@@ -1,1 +1,6 @@
-# # [Tasks](https://atcoder.jp/contests/awc0023/tasks)
+# [Tasks](https://atcoder.jp/contests/awc0023/tasks)
+1. [A - Comparing Test Scores](./awc0024_a/)
+2. [B - Spread of Rumors](./awc0024_b/)
+3. [C - Unique Seats](./awc0024_c/)
+4. [D - Highlighting with a Fluorescent Pen](./awc0024_d/)
+5. [E - Making Rope from Materials](./awc0024_e/)

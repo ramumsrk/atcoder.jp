@@ -1,0 +1,1 @@
+# [C - Unique Seats](https://atcoder.jp/contests/awc0024/tasks/awc0024_c)
