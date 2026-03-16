@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0026/tasks)
+1. [A - Announcement of Winning Numbers](./awc0026_a/)
+2. [B - Distribution of Jewels](./awc0026_b/)
+3. [C - Field Trip Snacks](./awc0026_c/)
+4. [D - Repainted Wall](./awc0026_d/)
+5. [E - Just the Right Temperature Difference](./awc0026_e/)

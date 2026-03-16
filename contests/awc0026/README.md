@@ -1,0 +1,6 @@
+# [AtCoder Weekday Contest 0026 Beta](https://atcoder.jp/contests/awc0026)
+1. [A - Announcement of Winning Numbers](./tasks/awc0026_a/)
+2. [B - Distribution of Jewels](./tasks/awc0026_b/)
+3. [C - Field Trip Snacks](./tasks/awc0026_c/)
+4. [D - Repainted Wall](./tasks/awc0026_d/)
+5. [E - Just the Right Temperature Difference](./tasks/awc0026_e/)

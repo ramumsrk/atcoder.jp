@@ -1,0 +1,1 @@
+# [E - Just the Right Temperature Difference](https://atcoder.jp/contests/awc0026/tasks/awc0026_e)

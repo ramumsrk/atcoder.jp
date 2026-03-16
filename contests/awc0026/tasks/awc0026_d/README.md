@@ -1,0 +1,1 @@
+# [D - Repainted Wall](https://atcoder.jp/contests/awc0026/tasks/awc0026_d)
