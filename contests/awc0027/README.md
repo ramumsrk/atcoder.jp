@@ -1,0 +1,6 @@
+# [AtCoder Weekday Contest 0027 Beta](https://atcoder.jp/contests/awc0027)
+1. [A - Passing Criteria](./tasks/awc0027_a/)
+2. [B - Election of the Class President](./tasks/awc0027_b/)
+3. [C - Building a Wireless Network](./tasks/awc0027_c/)
+4. [D - Part-Time Job Shift Assignment](./tasks/awc0027_d/)
+5. [E - Selection of Contiguous Intervals](./tasks/awc0027_e/)

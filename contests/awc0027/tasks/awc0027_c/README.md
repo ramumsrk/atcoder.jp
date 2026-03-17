@@ -1,0 +1,1 @@
+# [C - Building a Wireless Network](https://atcoder.jp/contests/awc0027/tasks/awc0027_c)

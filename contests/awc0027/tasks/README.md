@@ -1,0 +1,6 @@
+# [Tasks](atcoder.jp/contests/awc0027/tasks)
+1. [A - Passing Criteria](./awc0027_a/)
+2. [B - Election of the Class President](./awc0027_b/)
+3. [C - Building a Wireless Network](./awc0027_c/)
+4. [D - Part-Time Job Shift Assignment](./awc0027_d/)
+5. [E - Selection of Contiguous Intervals](./awc0027_e/)
