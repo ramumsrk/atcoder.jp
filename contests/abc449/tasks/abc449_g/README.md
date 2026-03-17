@@ -1,0 +1,1 @@
+# [G - Many Repunit Sum 2](https://atcoder.jp/contests/abc449/tasks/abc449_g)
