@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0029/tasks)
+1. [A - Calculating Part-Time Job Pay](./awc0029_a/)
+2. [B - Warehouse Inventory Management](./awc0029_b/)
+3. [C - Formation of the Strongest Pair](./awc0029_c/)
+4. [D - Network Installation](./awc0029_d/)
+5. [E - Traveling Delivery](./awc0029_e/)

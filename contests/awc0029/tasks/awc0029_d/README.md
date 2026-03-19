@@ -1,0 +1,1 @@
+# [D - Network Installation](https://atcoder.jp/contests/awc0029/tasks/awc0029_d)
