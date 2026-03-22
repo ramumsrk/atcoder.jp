@@ -1,0 +1,1 @@
+# [C - Puddles](https://atcoder.jp/contests/abc450/tasks/abc450_c)

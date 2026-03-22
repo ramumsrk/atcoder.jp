@@ -1,0 +1,1 @@
+# [F - Strongly Connected 2](https://atcoder.jp/contests/abc450/tasks/abc450_f)
