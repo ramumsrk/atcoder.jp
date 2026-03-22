@@ -1,0 +1,1 @@
+# [C - Traffic Jam Report](https://atcoder.jp/contests/awc0030/tasks/awc0030_c)

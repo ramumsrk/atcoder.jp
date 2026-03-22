@@ -1,0 +1,1 @@
+# [E - Optimizing Team Division](https://atcoder.jp/contests/awc0030/tasks/awc0030_e)

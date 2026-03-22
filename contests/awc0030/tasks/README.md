@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0030/tasks)
+1. [A - Distribution of Sweets](./awc0030_a/)
+2. [B - Shopping List ](./awc0030_b/)
+3. [C - Traffic Jam Report](./awc0030_c/)
+4. [D - Telephone Game of Messages](./awc0030_d/)
+5. [E - Optimizing Team Division](./awc0030_e/)
