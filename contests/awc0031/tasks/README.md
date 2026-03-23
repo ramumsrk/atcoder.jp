@@ -1,1 +1,6 @@
 # [Tasks](https://atcoder.jp/contests/awc0031/tasks)
+1. [A - Cooking Contest and Ingredients](./awc0031_a/)
+2. [B - Outstanding Score](./awc0031_b/)
+3. [C - Island Hopping Adventure](./awc0031_c/)
+4. [D - Library Inventory Check](./awc0031_d/)
+5. [E - Power Grid Blackout Crisis](./awc0031_e/)

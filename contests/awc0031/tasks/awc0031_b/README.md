@@ -1,0 +1,1 @@
+# [B - Outstanding Score](https://atcoder.jp/contests/awc0031/tasks/awc0031_b)

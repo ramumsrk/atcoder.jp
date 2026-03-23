@@ -1,0 +1,1 @@
+# [D - Library Inventory Check](https://atcoder.jp/contests/awc0031/tasks/awc0031_d)
