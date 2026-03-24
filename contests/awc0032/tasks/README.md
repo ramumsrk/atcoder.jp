@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0032/tasks)
+1. [A - Closeness of Fireworks](./awc0032_a/)
+2. [B - Package Delivery Schedule](./awc0032_b/)
+3. [C - Observatory with a Mountain View](./awc0032_c/)
+4. [D - Part-Time Job Shift Assignment](./awc0032_d/)
+5. [E - Multiple Bonus](./awc0032_e/)

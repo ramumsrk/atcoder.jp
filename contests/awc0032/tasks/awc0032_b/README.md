@@ -1,0 +1,1 @@
+# [B - Package Delivery Schedule](https://atcoder.jp/contests/awc0032/tasks/awc0032_b)

@@ -1,0 +1,1 @@
+# [D - Part-Time Job Shift Assignment](https://atcoder.jp/contests/awc0032/tasks/awc0032_d)

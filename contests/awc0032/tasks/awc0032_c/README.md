@@ -1,0 +1,1 @@
+# [C - Observatory with a Mountain View](https://atcoder.jp/contests/awc0032/tasks/awc0032_c)
