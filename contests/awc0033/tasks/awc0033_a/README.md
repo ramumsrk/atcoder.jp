@@ -1,0 +1,1 @@
+# [A - Grading the Answer Sheet](https://atcoder.jp/contests/awc0033/tasks/awc0033_a)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0033/tasks)
+1. [A - Grading the Answer Sheet](./awc0033_a/)
+2. [B - Plant Temperature Management](./awc0033_b/)
+3. [C - Spread of Rumors](./awc0033_c/)
+4. [D - Cheapest Commute Route](./awc0033_d/)
+5. [E - Minimum Cost of Stepping Stones](./awc0033_e/)
