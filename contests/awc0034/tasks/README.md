@@ -1,1 +1,6 @@
 # [Tasks](https://atcoder.jp/contests/awc0034/tasks)
+1. [A - Reception Processing at the Service Window](./awc0034_a/)
+2. [B - From Station to Station](./awc0034_b/)
+3. [C - Watering the Flower Bed](./awc0034_c/)
+4. [D - Meeting Room Reservation](./awc0034_d/)
+5. [E - Exhibition Layout](./awc0034_e/)
