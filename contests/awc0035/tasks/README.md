@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0035/tasks)
+1. [A - Warehouse Inventory Management](./awc0035_a/)
+2. [B - Package Distribution Center](./awc0035_b/)
+3. [C - Chain Blackout](./awc0035_c/)
+4. [D - Part-Time Job Shift Assignment](./awc0035_d/)
+5. [E - View of the Mountain Range](./awc0035_e/)

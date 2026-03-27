@@ -1,0 +1,1 @@
+# [C - Chain Blackout](https://atcoder.jp/contests/awc0035/tasks/awc0035_c)

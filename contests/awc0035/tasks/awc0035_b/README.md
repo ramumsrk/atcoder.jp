@@ -1,0 +1,1 @@
+# [B - Package Distribution Center](https://atcoder.jp/contests/awc0035/tasks/awc0035_b)
