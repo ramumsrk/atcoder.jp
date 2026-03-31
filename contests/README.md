@@ -4,6 +4,7 @@
 450. [AtCoder Beginner Contest 450](./abc450/)
 449. [AtCoder Beginner Contest 449](./abc449/)
 ## AWC - AtCoder Weekday Contest
+37. [AtCoder Weekday Contest 0037 Beta](./awc0037/)
 36. [AtCoder Weekday Contest 0036 Beta](./awc0036/)
 35. [AtCoder Weekday Contest 0035 Beta](./awc0035/)
 34. [AtCoder Weekday Contest 0034 Beta](./awc0034/)

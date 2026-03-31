@@ -1,0 +1,1 @@
+# [D - Arrangement of Trees](https://atcoder.jp/contests/awc0037/tasks/awc0037_d)

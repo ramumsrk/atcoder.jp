@@ -1,0 +1,1 @@
+# [C - Sum of Products of Consecutive Intervals](https://atcoder.jp/contests/awc0037/tasks/awc0037_c)
