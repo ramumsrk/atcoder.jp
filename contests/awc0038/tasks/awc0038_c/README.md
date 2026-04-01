@@ -1,0 +1,1 @@
+# [C - Cutting a Rope](https://atcoder.jp/contests/awc0038/tasks/awc0038_c)

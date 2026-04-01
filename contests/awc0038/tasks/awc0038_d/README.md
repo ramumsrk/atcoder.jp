@@ -1,0 +1,1 @@
+# [D - Total Weight of Team Selection](https://atcoder.jp/contests/awc0038/tasks/awc0038_d)

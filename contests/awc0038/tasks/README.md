@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0038/tasks)
+1. [A - Mountain View](./awc0038_a/)
+2. [B - Souvenir Selection](./awc0038_b/)
+3. [C - Cutting a Rope](./awc0038_c/)
+4. [D - Total Weight of Team Selection](./awc0038_d/)
+5. [E - Warehouse Placement Plan](./awc0038_e/)

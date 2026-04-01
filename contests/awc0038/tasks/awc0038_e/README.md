@@ -1,0 +1,1 @@
+# [E - Warehouse Placement Plan](https://atcoder.jp/contests/awc0038/tasks/awc0038_e)
