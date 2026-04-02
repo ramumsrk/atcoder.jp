@@ -1,1 +1,6 @@
 # [Tasks](https://atcoder.jp/contests/awc0039/tasks)
+1. [A - Password Verification](./awc0039_a/)
+2. [B - Student Grade Management](./awc0039_b/)
+3. [C - Organizing the Bookshelf ](./awc0039_c/)
+4. [D - Fastest Delivery Route](./awc0039_d/)
+5. [E - Library Book Search](./awc0039_e/)

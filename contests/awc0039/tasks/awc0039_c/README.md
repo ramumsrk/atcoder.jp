@@ -1,1 +1,1 @@
-# [](https://atcoder.jp/contests/awc0039/tasks/awc0039_c)
+# [C - Organizing the Bookshelf](https://atcoder.jp/contests/awc0039/tasks/awc0039_c)

@@ -1,1 +1,1 @@
-# [](https://atcoder.jp/contests/awc0039/tasks/awc0039_d)
+# [D - Fastest Delivery Route](https://atcoder.jp/contests/awc0039/tasks/awc0039_d)
