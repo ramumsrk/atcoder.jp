@@ -1,0 +1,1 @@
+# [C - Apple Harvest](https://atcoder.jp/contests/awc0040/tasks/awc0040_c)

@@ -1,0 +1,1 @@
+# [E - Internal Ranking](https://atcoder.jp/contests/awc0040/tasks/awc0040_e)
