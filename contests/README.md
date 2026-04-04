@@ -1,5 +1,6 @@
 # [Contests](https://atcoder.jp/contests/)
 ## ABC - AtCoder Beginner Contest
+452. [AtCoder Beginner Contest 452](./abc452/)
 451. [AtCoder Beginner Contest 451](./abc451/)
 450. [AtCoder Beginner Contest 450](./abc450/)
 449. [AtCoder Beginner Contest 449](./abc449/)
