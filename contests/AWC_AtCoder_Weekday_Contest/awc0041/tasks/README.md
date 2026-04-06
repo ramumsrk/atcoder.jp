@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0041/tasks)
+1. [](./awc0041_a/)
+2. [](./awc0041_b/)
+3. [](./awc0041_c/)
+4. [](./awc0041_d/)
+5. [](./awc0041_e/)
