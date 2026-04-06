@@ -1,1 +1,1 @@
-# [](https://atcoder.jp/contests/awc0041/tasks/awc0041_c)
+# [C - Total Score of Pairs](https://atcoder.jp/contests/awc0041/tasks/awc0041_c)
