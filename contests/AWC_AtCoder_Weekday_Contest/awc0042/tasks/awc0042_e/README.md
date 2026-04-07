@@ -1,0 +1,1 @@
+# [E - Part-Time Job Shift Management](https://atcoder.jp/contests/awc0042/tasks/awc0042_e)

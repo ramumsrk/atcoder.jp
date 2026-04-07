@@ -1,0 +1,1 @@
+# [D - Distribution of Sweets](https://atcoder.jp/contests/awc0042/tasks/awc0042_d)

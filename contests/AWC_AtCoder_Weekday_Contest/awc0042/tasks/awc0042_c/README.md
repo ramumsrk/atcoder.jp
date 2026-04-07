@@ -1,0 +1,1 @@
+# [C - Bonus Distribution](https://atcoder.jp/contests/awc0042/tasks/awc0042_c)

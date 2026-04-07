@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0042/tasks)
+1. [A - Packing Sweets into Boxes](./awc0042_a/)
+2. [B - Stairway to Skill Up](./awc0042_b/)
+3. [C - Bonus Distribution](./awc0042_c/)
+4. [D - Distribution of Sweets](./awc0042_d/)
+5. [E - Part-Time Job Shift Management](./awc0042_e/)
