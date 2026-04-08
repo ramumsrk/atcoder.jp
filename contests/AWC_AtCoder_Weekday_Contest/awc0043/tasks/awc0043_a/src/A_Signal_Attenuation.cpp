@@ -14,13 +14,14 @@ main(void) -> int {
     int N {};
     long long int M {};
     cin>>N>>M;
+    __int128_t _M {M};
     vector<int> A(N,0);
     for (auto& a : A) {
         cin>>a;
     }
     for (const auto& a : A) {
-        M = (__int128_t)floor((M*a)/100);
+        _M = (__int128_t)floor(((long long int)_M*a)/100);
     }
-    cout<<(long long int)M<<endl;
+    cout<<(long long int)_M<<endl;
     return EXIT_SUCCESS;
 }
