@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0043/tasks)
+1. [A - Signal Attenuation](./awc0043_a/)
+2. [B - Pairing for the Dance Party](./awc0043_b/)
+3. [C - Imbalance of the Organization](./awc0043_c/)
+4. [D - Sum of Height Differences](./awc0043_d/)
+5. [E - Hiking Score on a Mountain Trail](./awc0043_e/)

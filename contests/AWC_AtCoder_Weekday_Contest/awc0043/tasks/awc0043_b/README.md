@@ -1,0 +1,1 @@
+# [B - Pairing for the Dance Party](https://atcoder.jp/contests/awc0043/tasks/awc0043_b)

@@ -1,0 +1,1 @@
+# [C - Imbalance of the Organization](https://atcoder.jp/contests/awc0043/tasks/awc0043_c)

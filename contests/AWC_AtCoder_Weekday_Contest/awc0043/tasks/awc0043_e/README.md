@@ -1,0 +1,1 @@
+# [E - Hiking Score on a Mountain Trail](https://atcoder.jp/contests/awc0043/tasks/awc0043_e)
