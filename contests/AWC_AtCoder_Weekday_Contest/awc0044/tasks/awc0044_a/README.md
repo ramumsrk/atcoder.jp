@@ -1,0 +1,1 @@
+# [](https://atcoder.jp/contests/awc0044/tasks/awc0044_a)
