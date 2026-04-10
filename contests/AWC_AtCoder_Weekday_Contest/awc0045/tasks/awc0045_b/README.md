@@ -1,0 +1,1 @@
+# [B - Order of Books on the Bookshelf](https://atcoder.jp/contests/awc0045/tasks/awc0045_b)

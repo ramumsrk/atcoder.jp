@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0045/tasks)
+1. [A - Event Refund](./awc0045_a/)
+2. [B - Order of Books on the Bookshelf](./awc0045_b/)
+3. [C - Watering Duty](./awc0045_c/)
+4. [D - Cell Division](./awc0045_d/)
+5. [E - Interval Evaluation Value](./awc0045_e/)
