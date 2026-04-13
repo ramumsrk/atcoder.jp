@@ -1,0 +1,1 @@
+# [E - A Walk and Barricades](https://atcoder.jp/contests/awc0046/tasks/awc0046_e)

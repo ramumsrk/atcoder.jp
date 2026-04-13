@@ -1,0 +1,1 @@
+# [D - Operation Plan for Distribution Center](https://atcoder.jp/contests/awc0046/tasks/awc0046_d)

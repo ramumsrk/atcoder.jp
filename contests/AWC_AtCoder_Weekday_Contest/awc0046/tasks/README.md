@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0046/tasks)
+1. [A - Optimal Practice Partner](./awc0046_a/)
+2. [B - Organizing the Locker](./awc0046_b/)
+3. [C - Seating Arrangement](./awc0046_c/)
+4. [D - Operation Plan for Distribution Center](./awc0046_d/)
+4. [E - A Walk and Barricades](./awc0046_e/)
