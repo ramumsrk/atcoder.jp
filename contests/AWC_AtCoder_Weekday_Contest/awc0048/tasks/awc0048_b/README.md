@@ -1,0 +1,1 @@
+# [B - Footsteps in the Hallway](https://atcoder.jp/contests/awc0048/tasks/awc0048_b)

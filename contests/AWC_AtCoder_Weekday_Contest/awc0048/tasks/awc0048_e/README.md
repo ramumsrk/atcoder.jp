@@ -1,0 +1,1 @@
+# [E - Team Formation](https://atcoder.jp/contests/awc0048/tasks/awc0048_e)

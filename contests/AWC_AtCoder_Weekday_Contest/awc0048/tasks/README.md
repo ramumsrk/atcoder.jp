@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0048/tasks)
+1. [A - Flipping Switches](./awc0048_a/)
+2. [B - Footsteps in the Hallway](./awc0048_b/)
+3. [C - Streetlights and Blizzard](./awc0048_c/)
+4. [D - Maximum Score](./awc0048_d/)
+5. [E - Team Formation](./awc0048_e/)

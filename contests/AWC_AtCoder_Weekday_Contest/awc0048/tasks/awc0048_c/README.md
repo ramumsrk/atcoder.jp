@@ -1,0 +1,1 @@
+# [C - Streetlights and Blizzard](https://atcoder.jp/contests/awc0048/tasks/awc0048_c)

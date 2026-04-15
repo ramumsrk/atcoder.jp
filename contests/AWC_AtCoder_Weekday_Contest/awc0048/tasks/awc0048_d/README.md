@@ -1,0 +1,1 @@
+# [D - Maximum Score](https://atcoder.jp/contests/awc0048/tasks/awc0048_d)
