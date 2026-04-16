@@ -1,0 +1,1 @@
+# [C - Sum of Intervals](https://atcoder.jp/contests/awc0049/tasks/awc0049_c)

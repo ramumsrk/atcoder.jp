@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0049/tasks)
+1. [A - Progressive Taxation Simulation](./awc0049_a/)
+2. [B - Cell Cultivation](./awc0049_b/)
+3. [C - Sum of Intervals](./awc0049_c/)
+4. [D - Souvenir Combinations](./awc0049_d/)
+5. [E - Optimizing Delivery Routes](./awc0049_e/)

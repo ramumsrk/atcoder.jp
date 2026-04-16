@@ -1,0 +1,1 @@
+# [D - Souvenir Combinations](https://atcoder.jp/contests/awc0049/tasks/awc0049_d)
