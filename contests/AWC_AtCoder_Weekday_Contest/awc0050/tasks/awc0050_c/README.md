@@ -1,0 +1,1 @@
+# [C - Stacking Cards](https://atcoder.jp/contests/awc0050/tasks/awc0050_c)

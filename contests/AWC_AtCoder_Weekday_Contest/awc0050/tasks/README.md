@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0050/tasks)
+1. [A - Matching Sequences](./awc0050_a/)
+2. [B - Orchard Harvest](./awc0050_b/)
+3. [C - Stacking Cards](./awc0050_c/)
+4. [D - City Walk and Tolls](./awc0050_d/)
+5. [E - Minimum Cost Guard Plan](./awc0050_e/)

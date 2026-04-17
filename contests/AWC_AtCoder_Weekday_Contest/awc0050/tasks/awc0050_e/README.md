@@ -1,0 +1,1 @@
+# [E - Minimum Cost Guard Plan](https://atcoder.jp/contests/awc0050/tasks/awc0050_e)
