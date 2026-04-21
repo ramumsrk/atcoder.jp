@@ -1,0 +1,1 @@
+# [E - The Adventurer's Journey](https://atcoder.jp/contests/awc0052/tasks/awc0052_e)

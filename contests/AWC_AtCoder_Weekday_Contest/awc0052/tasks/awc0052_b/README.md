@@ -1,0 +1,1 @@
+# [B - Circular Card Rotation](https://atcoder.jp/contests/awc0052/tasks/awc0052_b)

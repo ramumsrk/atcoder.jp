@@ -1,0 +1,1 @@
+# [C - Shopping Challenge](https://atcoder.jp/contests/awc0052/tasks/awc0052_c)

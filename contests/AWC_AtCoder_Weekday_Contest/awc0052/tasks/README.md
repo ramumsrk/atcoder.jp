@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0052/tasks)
+1. [A - Consecutive Rising Temperatures](./awc0052_a/)
+2. [B - Circular Card Rotation](./awc0052_b/)
+3. [C - Shopping Challenge](./awc0052_c/)
+4. [D - Virus Testing and Infected Terminals](./awc0052_d/)
+5. [E - The Adventurer's Journey](./awc0052_e/)

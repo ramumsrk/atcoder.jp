@@ -1,0 +1,1 @@
+# [A - Consecutive Rising Temperatures](https://atcoder.jp/contests/awc0052/tasks/awc0052_a)
