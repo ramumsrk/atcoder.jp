@@ -1,0 +1,1 @@
+# [B - Spiral Galaxy](https://atcoder.jp/contests/abc455/tasks/abc455_b)

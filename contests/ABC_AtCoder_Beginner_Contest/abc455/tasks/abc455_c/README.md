@@ -1,0 +1,1 @@
+# [C - Vanish](https://atcoder.jp/contests/abc455/tasks/abc455_c)
