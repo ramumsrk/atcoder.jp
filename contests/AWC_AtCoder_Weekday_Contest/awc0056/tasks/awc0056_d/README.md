@@ -1,0 +1,1 @@
+# [D - Dividing the Flower Bed into Sections](https://atcoder.jp/contests/awc0056/tasks/awc0056_d)

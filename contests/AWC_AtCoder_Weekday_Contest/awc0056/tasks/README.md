@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0056/tasks)
+1. [A - Arranged Dish from a Recipe](./awc0056_a/)
+2. [B - Energy-Saving Strategy](./awc0056_b/)
+3. [C - Organizing Consecutive Bookshelves](./awc0056_c/)
+4. [D - Dividing the Flower Bed into Sections](./awc0056_d/)
+5. [E - Delivery Driver's Route](./awc0056_e/)
