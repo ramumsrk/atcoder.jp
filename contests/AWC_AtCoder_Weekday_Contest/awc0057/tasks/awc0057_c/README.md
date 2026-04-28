@@ -1,0 +1,1 @@
+# [C - Investment and Doubling](https://atcoder.jp/contests/awc0057/tasks/awc0057_c)

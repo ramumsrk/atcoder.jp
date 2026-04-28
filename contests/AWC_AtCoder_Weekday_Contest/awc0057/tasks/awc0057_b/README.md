@@ -1,0 +1,1 @@
+# [B - Library Book Search](https://atcoder.jp/contests/awc0057/tasks/awc0057_b)
