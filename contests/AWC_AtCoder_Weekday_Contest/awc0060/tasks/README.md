@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0060/tasks)
+1. [A - Test Score Difference](./awc0060_a/)
+2. [B - Missing Survey and Team Division](./awc0060_b/)
+3. [C - Simultaneous Firework Launch](./awc0060_c/)
+4. [D - Card Stacking](./awc0060_d/)
+5. [E - Cyclic Password](./awc0060_e/)
