@@ -1,0 +1,1 @@
+# [G - Count Holidays](https://atcoder.jp/contests/abc456/tasks/abc456_g)
