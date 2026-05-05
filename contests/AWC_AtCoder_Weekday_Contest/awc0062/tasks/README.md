@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0062/tasks)
+1. [A - Completing the Training Menu](./awc0062_a/)
+2. [B - Highway Toll Booth](./awc0062_b/)
+3. [C - Optimal Menu Selection for an Izakaya](./awc0062_c/)
+4. [D - Nearly Identical Signal Patterns](./awc0062_d/)
+5. [E - Radio Tower and Signal Strength](./awc0062_e/)

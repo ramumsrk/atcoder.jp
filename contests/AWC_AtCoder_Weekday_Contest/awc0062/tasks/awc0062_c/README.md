@@ -1,0 +1,1 @@
+# [C - Optimal Menu Selection for an Izakaya](https://atcoder.jp/contests/awc0062/tasks/awc0062_c)

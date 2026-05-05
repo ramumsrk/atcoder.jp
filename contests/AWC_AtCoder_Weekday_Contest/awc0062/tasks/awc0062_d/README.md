@@ -1,0 +1,1 @@
+# [D - Nearly Identical Signal Patterns](https://atcoder.jp/contests/awc0062/tasks/awc0062_d)

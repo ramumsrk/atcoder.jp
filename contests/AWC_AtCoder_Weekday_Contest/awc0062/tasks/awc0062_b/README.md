@@ -1,0 +1,1 @@
+# [B - Highway Toll Booth](https://atcoder.jp/contests/awc0062/tasks/awc0062_b)
