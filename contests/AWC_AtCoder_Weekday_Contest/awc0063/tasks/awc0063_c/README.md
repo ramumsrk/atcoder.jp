@@ -1,0 +1,1 @@
+# [C - Maximizing Investment](https://atcoder.jp/contests/awc0063/tasks/awc0063_c)

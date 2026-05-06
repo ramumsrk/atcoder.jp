@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0063/tasks)
+1. [A - Starry Sky Observation Log](./awc0063_a/)
+2. [B - Meeting Room Where Everyone Can Attend](./awc0063_b/)
+3. [C - Maximizing Investment](./awc0063_c/)
+4. [D - Card Taking Game](./awc0063_d/)
+5. [E - Number of Blocks in an Interval](./awc0063_e/)

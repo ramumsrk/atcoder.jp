@@ -1,0 +1,1 @@
+# [B - Meeting Room Where Everyone Can Attend](https://atcoder.jp/contests/awc0063/tasks/awc0063_b)
