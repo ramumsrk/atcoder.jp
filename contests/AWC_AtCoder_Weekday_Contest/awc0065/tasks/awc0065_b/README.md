@@ -1,0 +1,1 @@
+# [B - Shopping List](https://atcoder.jp/contests/awc0065/tasks/awc0065_b)

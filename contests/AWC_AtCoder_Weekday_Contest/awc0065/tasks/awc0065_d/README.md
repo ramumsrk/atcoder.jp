@@ -1,0 +1,1 @@
+# [D - Total Sales Within Delivery Range](https://atcoder.jp/contests/awc0065/tasks/awc0065_d)

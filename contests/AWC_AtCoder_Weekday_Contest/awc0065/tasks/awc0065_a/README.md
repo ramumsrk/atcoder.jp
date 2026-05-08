@@ -1,0 +1,1 @@
+# [A - Rest Plan for a Long-Distance Drive](https://atcoder.jp/contests/awc0065/tasks/awc0065_a)

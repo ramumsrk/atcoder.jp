@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0065/tasks)
+1. [A - Rest Plan for a Long-Distance Drive](./awc0065_a/)
+2. [B - Shopping List](./awc0065_b/)
+3. [C - Choosing Flowers for the Flower Bed](./awc0065_c/)
+4. [D - Total Sales Within Delivery Range](./awc0065_d/)
+5. [E - Period of Stable Temperature](./awc0065_e/)

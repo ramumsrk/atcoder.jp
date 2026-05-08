@@ -1,0 +1,1 @@
+# [E - Period of Stable Temperature](https://atcoder.jp/contests/awc0065/tasks/awc0065_e)
