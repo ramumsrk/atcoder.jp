@@ -1,0 +1,1 @@
+# [A - Consecutive High-Score Segments](https://atcoder.jp/contests/awc0064/tasks/awc0064_a)

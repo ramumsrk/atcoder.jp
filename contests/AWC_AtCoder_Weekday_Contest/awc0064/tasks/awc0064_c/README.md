@@ -1,0 +1,1 @@
+# [C - Summer Homework Plan](https://atcoder.jp/contests/awc0064/tasks/awc0064_c)

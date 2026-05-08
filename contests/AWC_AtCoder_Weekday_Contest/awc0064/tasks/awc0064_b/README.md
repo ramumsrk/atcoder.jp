@@ -1,0 +1,1 @@
+# [B - Card Taking Game](https://atcoder.jp/contests/awc0064/tasks/awc0064_b)
