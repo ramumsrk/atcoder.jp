@@ -1,0 +1,1 @@
+# [G - Catch All Apples](https://atcoder.jp/contests/abc457/tasks/abc457_g)

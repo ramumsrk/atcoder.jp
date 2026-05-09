@@ -1,0 +1,10 @@
+# [Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）](https://atcoder.jp/contests/abc457)
+1. [A - Array](./tasks/abc457_a/)
+2. [B - Arrays](./tasks/abc457_b/)
+3. [C - Long Sequence](./tasks/abc457_c/)
+4. [D - Raise Minimum](./tasks/abc457_d/)
+5. [E - Crossing Table Cloth](./tasks/abc457_e/)
+6. [F - Second Gap](./tasks/abc457_f/)
+7. [G - Catch All Apples](./tasks/abc457_g/)
+## Standings
+[standings](https://atcoder.jp/contests/abc457/standings)
