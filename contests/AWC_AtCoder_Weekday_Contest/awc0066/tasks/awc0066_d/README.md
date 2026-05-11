@@ -1,0 +1,1 @@
+# [D - Splitting a Rope](https://atcoder.jp/contests/awc0066/tasks/awc0066_d)

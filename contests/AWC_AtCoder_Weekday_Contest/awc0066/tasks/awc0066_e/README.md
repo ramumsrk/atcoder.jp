@@ -1,0 +1,1 @@
+# [E - Average Score of Tourist Routes](https://atcoder.jp/contests/awc0066/tasks/awc0066_e)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0066/tasks)
+1. [A - Belt Conveyor](./awc0066_a/)
+2. [B - Smartphone Battery](./awc0066_b/)
+3. [C - Discount Coupon](./awc0066_c/)
+4. [D - Splitting a Rope](./awc0066_d/)
+5. [E - Average Score of Tourist Routes](./awc0066_e/)

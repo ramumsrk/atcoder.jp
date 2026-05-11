@@ -1,0 +1,1 @@
+# [B - Smartphone Battery](https://atcoder.jp/contests/awc0066/tasks/awc0066_b)
