@@ -1,0 +1,1 @@
+# [C - Grocery Shopping](https://atcoder.jp/contests/awc0067/tasks/awc0067_c)

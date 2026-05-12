@@ -1,0 +1,1 @@
+# [E - Card Taking Game](https://atcoder.jp/contests/awc0067/tasks/awc0067_e)
