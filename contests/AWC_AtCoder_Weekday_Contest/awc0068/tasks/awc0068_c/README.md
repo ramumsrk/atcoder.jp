@@ -1,0 +1,1 @@
+# [C - Team Flag Colors ](https://atcoder.jp/contests/awc0068/tasks/awc0068_c)

@@ -1,0 +1,1 @@
+# [D - Congested Intersection](https://atcoder.jp/contests/awc0068/tasks/awc0068_d)

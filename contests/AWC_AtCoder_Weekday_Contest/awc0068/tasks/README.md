@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0068/tasks)
+1. [Comfortable Temperature](./awc0068_a/)
+2. [Farm Partitioning](./awc0068_b/)
+3. [Team Flag Colors](./awc0068_c/)
+4. [Congested Intersection](./awc0068_d/)
+5. [Selecting Photo Spots](./awc0068_e/)

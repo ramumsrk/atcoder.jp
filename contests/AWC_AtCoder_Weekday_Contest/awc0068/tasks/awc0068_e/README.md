@@ -1,0 +1,1 @@
+# [E - Selecting Photo Spots](https://atcoder.jp/contests/awc0068/tasks/awc0068_e)
