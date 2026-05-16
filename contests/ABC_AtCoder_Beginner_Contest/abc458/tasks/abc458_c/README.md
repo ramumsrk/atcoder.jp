@@ -1,0 +1,1 @@
+# [C - C Stands for Center](https://atcoder.jp/contests/abc458/tasks/abc458_c)

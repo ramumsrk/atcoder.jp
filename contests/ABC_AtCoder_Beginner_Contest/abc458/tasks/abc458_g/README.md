@@ -1,0 +1,1 @@
+# [G - Children Yearn for the Evil Kindergarten](https://atcoder.jp/contests/abc458/tasks/abc458_g)
