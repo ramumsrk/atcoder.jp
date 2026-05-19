@@ -1,0 +1,1 @@
+# [D - Mountain Traverse](https://atcoder.jp/contests/awc0072/tasks/awc0072_d)

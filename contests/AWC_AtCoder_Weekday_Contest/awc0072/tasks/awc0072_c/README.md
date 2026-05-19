@@ -1,0 +1,1 @@
+# [C - Battery Remaining](https://atcoder.jp/contests/awc0072/tasks/awc0072_c)

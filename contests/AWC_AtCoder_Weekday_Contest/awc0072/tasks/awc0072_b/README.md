@@ -1,0 +1,1 @@
+# [B - Tending the Flower Bed](https://atcoder.jp/contests/awc0072/tasks/awc0072_b)

@@ -1,0 +1,1 @@
+# [E - Checking Seats and Lunches](https://atcoder.jp/contests/awc0072/tasks/awc0072_e)

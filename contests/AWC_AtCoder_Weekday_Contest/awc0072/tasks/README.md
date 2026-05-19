@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0072/tasks)
+1. [A - Matching of Notes](./awc0072_a/)
+2. [B - Tending the Flower Bed](./awc0072_b/)
+3. [C - Battery Remaining](./awc0072_c/)
+4. [D - Mountain Traverse](./awc0072_d/)
+5. [E - Checking Seats and Lunches](./awc0072_e/)
