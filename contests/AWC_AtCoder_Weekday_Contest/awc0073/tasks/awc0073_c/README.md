@@ -1,0 +1,1 @@
+# [C - Synergy at the Flea Market](https://atcoder.jp/contests/awc0073/tasks/awc0073_c)

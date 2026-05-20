@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0073/tasks)
+1. [A - Lottery Number Matching](./awc0073_a/)
+2. [B - Flipping Cards](./awc0073_b/)
+3. [C - Synergy at the Flea Market](./awc0073_c/)
+4. [D - Package Delivery](./awc0073_d/)
+5. [E - Snow Plow Routing](./awc0073_e/)
