@@ -1,0 +1,1 @@
+# [C - Light Switch Operation](https://atcoder.jp/contests/awc0074/tasks/awc0074_c)

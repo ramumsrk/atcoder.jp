@@ -1,0 +1,1 @@
+# [D - Safe School Route](https://atcoder.jp/contests/awc0074/tasks/awc0074_d)

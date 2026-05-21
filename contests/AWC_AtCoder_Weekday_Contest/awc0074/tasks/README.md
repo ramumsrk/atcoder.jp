@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0074/tasks)
+1. [A - Ribbon Cut](./awc0074_a/)
+2. [B - Maximum Sum of a Contiguous Subarray](./awc0074_b/)
+3. [C - Light Switch Operation](./awc0074_c/)
+4. [D - Safe School Route](./awc0074_d/)
+5. [E - Jamming and Communication Network](./awc0074_e/)
