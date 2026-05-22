@@ -1,0 +1,1 @@
+# [C - Shopping Within Budget](https://atcoder.jp/contests/awc0075/tasks/awc0075_c)

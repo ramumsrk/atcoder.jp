@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0075/tasks)
+1. [A - Zigzag of Mountain Range](./awc0075_a/)
+2. [B - Fruit Harvest](./awc0075_b/)
+3. [C - Shopping Within Budget](./awc0075_c/)
+4. [D - Sorting Bouquets](./awc0075_d/)
+5. [E - Lost Kittens](./awc0075_e/)
