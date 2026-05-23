@@ -1,16 +1,12 @@
 #include <iostream>
 #include <cstdlib>
 #include <vector>
-#include <numeric>
-#include <algorithm>
 
 using std::vector;
 using std::cin;
 using std::cout;
 using std::endl;
-using std::begin;
-using std::accumulate;
-using std::min_element;
+using std::min;
 
 auto
 b_fruit_harvest(
@@ -21,28 +17,24 @@ b_fruit_harvest(
     for (auto& a : A) {
         cin>>a;
     }
-    auto start_it {begin(A)};
-    auto end_it {begin(A)+K};
-    long long int min_total_fruits {accumulate(start_it, end_it, int {})};
-    vector<long long int> v(0,0);
-    v.push_back(min_total_fruits);
-    for (int i {1}; i <= N-K; i += 1) {
-        min_total_fruits -= A[i-1];
-        min_total_fruits += A[i+(K-1)];
-        v.push_back(min_total_fruits);
+    long long int fruits_harvested {};
+    for (int i {}; i < K; i += 1) {
+        fruits_harvested += A[i];
     }
-    // for (const auto& e : v) {
-    //     cout<<e<<' ';
-    // }
-    // cout<<endl;
-    return  {*min_element(begin(v), end(v))};
+    long long int min_fruits_harvested {fruits_harvested};
+    for (int i {1}; i <= N-K; i += 1) {
+        fruits_harvested -= A[i-1];
+        fruits_harvested += A[(i+K)-1];
+        min_fruits_harvested = min(min_fruits_harvested, fruits_harvested);
+    }
+    return min_fruits_harvested;
 }
 
 auto
 main(void) -> int {
     int N {}, K {};
     cin>>N>>K;
-    long long int min_total_fruits {b_fruit_harvest(N, K)};
-    cout<<min_total_fruits<<endl;
+    long long int min_fruits_harvested {b_fruit_harvest(N, K)};
+    cout<<min_fruits_harvested<<endl;
     return EXIT_SUCCESS;
 }
