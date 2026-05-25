@@ -1,0 +1,1 @@
+# [B - Scoreboard of a Programming Contest](https://atcoder.jp/contests/awc0076/tasks/awc0076_b)

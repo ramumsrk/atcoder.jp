@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0076/tasks)
+1. [A - Neighborhood Association Audit](./awc0076_a/)
+2. [B - Scoreboard of a Programming Contest](./awc0076_b/)
+3. [C - Inversion of the Magic Square](./awc0076_c/)
+4. [D - Escape from the Labyrinth](./awc0076_d/)
+5. [E - Library Loan Management](./awc0076_e/)
