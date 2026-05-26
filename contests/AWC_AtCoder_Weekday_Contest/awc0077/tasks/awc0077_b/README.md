@@ -1,0 +1,1 @@
+# [B - Assortment of Sweets](https://atcoder.jp/contests/awc0077/tasks/awc0077_b)

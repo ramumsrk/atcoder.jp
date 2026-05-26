@@ -1,0 +1,1 @@
+# [C - Minimum Number of Items to Buy](https://atcoder.jp/contests/awc0077/tasks/awc0077_c)

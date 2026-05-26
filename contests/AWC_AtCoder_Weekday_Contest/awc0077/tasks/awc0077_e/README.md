@@ -1,0 +1,1 @@
+# [E - Gift Distribution](https://atcoder.jp/contests/awc0077/tasks/awc0077_e)
