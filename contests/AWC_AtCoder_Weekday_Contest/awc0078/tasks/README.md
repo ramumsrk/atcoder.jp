@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0078/tasks)
+1. [A - Warehouse Shipment Management ](./awc0078_a/)
+2. [B - Number of Snow Shoveling Times](./awc0078_b/)
+3. [C - Eliminated Players and the Standings](./awc0078_c/)
+4. [D - Product Return](./awc0078_d/)
+5. [E - Company Management Simulation](./awc0078_e/)

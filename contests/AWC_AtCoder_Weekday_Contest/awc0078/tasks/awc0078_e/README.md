@@ -1,0 +1,1 @@
+# [E - Company Management Simulation](https://atcoder.jp/contests/awc0078/tasks/awc0078_e)

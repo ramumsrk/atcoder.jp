@@ -1,0 +1,1 @@
+# [B - Number of Snow Shoveling Times](https://atcoder.jp/contests/awc0078/tasks/awc0078_b)

@@ -1,0 +1,1 @@
+# [C - Eliminated Players and the Standings](https://atcoder.jp/contests/awc0078/tasks/awc0078_c)

@@ -1,0 +1,1 @@
+# [D - Product Return](https://atcoder.jp/contests/awc0078/tasks/awc0078_d)
