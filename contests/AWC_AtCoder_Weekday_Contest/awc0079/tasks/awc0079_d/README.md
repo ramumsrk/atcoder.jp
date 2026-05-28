@@ -1,0 +1,1 @@
+# [D - Distribution of Souvenirs](https://atcoder.jp/contests/awc0079/tasks/awc0079_d)

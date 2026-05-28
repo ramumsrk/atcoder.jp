@@ -1,0 +1,1 @@
+# [A - Safe Network](https://atcoder.jp/contests/awc0079/tasks/awc0079_a)

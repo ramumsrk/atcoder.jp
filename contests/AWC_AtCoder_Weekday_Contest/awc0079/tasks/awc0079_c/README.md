@@ -1,0 +1,1 @@
+# [C - Periodic Chase](https://atcoder.jp/contests/awc0079/tasks/awc0079_c)

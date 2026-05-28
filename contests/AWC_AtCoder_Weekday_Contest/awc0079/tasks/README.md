@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0079/tasks)
+1. [A - Safe Network](./awc0079_a/)
+2. [B - Bulk Purchase Discount](./awc0079_b/)
+3. [C - Periodic Chase](./awc0079_c/)
+4. [D - Distribution of Souvenirs](./awc0079_d/)
+5. [E - Composition of Convex Shapes](./awc0079_e/)
