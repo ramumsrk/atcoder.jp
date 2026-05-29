@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0080/tasks)
+1. [A - Bomb Disposal Squad](./awc0080_a/)
+2. [B - Quality Inspection and Product Disposal](./awc0080_b/)
+3. [C - Reward for Carrying Luggage](./awc0080_c/)
+4. [D - Network Construction](./awc0080_d/)
+5. [E - Paint Drop](./awc0080_e/)

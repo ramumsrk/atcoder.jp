@@ -1,0 +1,1 @@
+# [D - Network Construction](https://atcoder.jp/contests/awc0080/tasks/awc0080_d)

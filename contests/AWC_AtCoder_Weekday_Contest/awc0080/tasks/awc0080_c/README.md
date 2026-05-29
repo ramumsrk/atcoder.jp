@@ -1,0 +1,1 @@
+# [C - Reward for Carrying Luggage](https://atcoder.jp/contests/awc0080/tasks/awc0080_c)
