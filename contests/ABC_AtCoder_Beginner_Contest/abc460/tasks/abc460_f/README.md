@@ -1,0 +1,1 @@
+# [F - Farthest Pair Query](https://atcoder.jp/contests/abc460/tasks/abc460_f)

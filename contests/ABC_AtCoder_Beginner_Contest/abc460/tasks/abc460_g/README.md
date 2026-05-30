@@ -1,0 +1,1 @@
+# [G - Vertex Flip Query](https://atcoder.jp/contests/abc460/tasks/abc460_g)
