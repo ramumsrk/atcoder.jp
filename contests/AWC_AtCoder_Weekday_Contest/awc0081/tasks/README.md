@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0081/tasks)
+1. [A - Order Confirmation](./awc0081_a/)
+2. [B - Monster Slaying](./awc0081_b/)
+3. [C - Spread of Rumors](./awc0081_c/)
+4. [D - Organizing the Bookshelf](./awc0081_d/)
+5. [E - Balanced Groups in Tournament Partition](./awc0081_e/)

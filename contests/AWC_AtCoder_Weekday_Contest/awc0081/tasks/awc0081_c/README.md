@@ -1,0 +1,1 @@
+# [C - Spread of Rumors](https://atcoder.jp/contests/awc0081/tasks/awc0081_c)
