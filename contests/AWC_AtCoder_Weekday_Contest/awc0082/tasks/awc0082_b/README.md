@@ -1,0 +1,1 @@
+# [B - Maximizing the Partition Score of a Lamp Sequence](https://atcoder.jp/contests/awc0082/tasks/awc0082_b)

@@ -1,0 +1,1 @@
+# [D - Corridor Doors and Hit Points](https://atcoder.jp/contests/awc0082/tasks/awc0082_d)

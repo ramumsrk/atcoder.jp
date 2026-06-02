@@ -1,0 +1,1 @@
+# [E - Company Organization and Salaries](https://atcoder.jp/contests/awc0082/tasks/awc0082_e)

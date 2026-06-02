@@ -1,0 +1,1 @@
+# [C - Train Rearrangement](https://atcoder.jp/contests/awc0082/tasks/awc0082_c)
