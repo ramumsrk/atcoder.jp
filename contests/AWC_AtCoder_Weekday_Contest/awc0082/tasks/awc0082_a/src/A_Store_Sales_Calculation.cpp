@@ -22,7 +22,7 @@ a_store_sales_calculation(
         int S {}, P {}, D {};
         cin>>S>>P>>D;
         if (S == 1) {
-            total_purchase_amount += (A[P-1]-K)*D; 
+            total_purchase_amount += ((A[P-1]>=K)?A[P-1]-K:K-A[P-1])*D; 
         } else if (S == 0) {
             total_purchase_amount += A[P-1]*D;
         }
