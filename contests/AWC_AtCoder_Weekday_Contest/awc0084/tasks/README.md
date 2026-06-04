@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0084/tasks)
+1. [A - Warehouse Inventory Management](./awc0084_a/)
+2. [B - Shopping Plan](./awc0084_b/)
+3. [C - Shortest Path in a Maze](./awc0084_c/)
+4. [D - Museum Patrol](./awc0084_d/)
+5. [E - Cipher Conversion Device and Password Authentication](./awc0084_e/)

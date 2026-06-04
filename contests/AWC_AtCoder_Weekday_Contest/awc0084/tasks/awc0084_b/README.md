@@ -1,0 +1,1 @@
+# [B - Shopping Plan](https://atcoder.jp/contests/awc0084/tasks/awc0084_b)

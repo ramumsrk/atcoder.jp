@@ -1,0 +1,1 @@
+# [C - Shortest Path in a Maze](https://atcoder.jp/contests/awc0084/tasks/awc0084_c)
