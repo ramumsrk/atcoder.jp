@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0086/tasks)
+1. [A - Watching the Fireworks Festival](./awc0086_a/)
+2. [B - Training Without Consecutive Repetitions](./awc0086_b/)
+3. [C - Switching the Lights](./awc0086_c/)
+4. [D - Shortest Delivery Route](./awc0086_d/)
+5. [E - Dance Synchronization](./awc0086_e/)
