@@ -1,0 +1,1 @@
+# [E - Intervals That Can Be Arranged Alternately](https://atcoder.jp/contests/awc0088/tasks/awc0088_e)

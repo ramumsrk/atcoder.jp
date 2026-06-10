@@ -1,0 +1,1 @@
+# [B - Bus Tour Group Division](https://atcoder.jp/contests/awc0088/tasks/awc0088_b)

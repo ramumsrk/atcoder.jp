@@ -1,0 +1,1 @@
+# [D - Control Panel Operation Sequence](https://atcoder.jp/contests/awc0088/tasks/awc0088_d)

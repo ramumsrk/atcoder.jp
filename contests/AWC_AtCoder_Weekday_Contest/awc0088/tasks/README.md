@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0088/tasks)
+1. [A - Bus Departure Time](./awc0088_a/)
+2. [B - Bus Tour Group Division](./awc0088_b/)
+3. [C - Farm Harvest Festival](./awc0088_c/)
+4. [D - Control Panel Operation Sequence](./awc0088_d/)
+5. [E - Intervals That Can Be Arranged Alternately](./awc0088_e/)

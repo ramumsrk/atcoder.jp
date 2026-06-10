@@ -1,0 +1,1 @@
+# [C - Farm Harvest Festival](https://atcoder.jp/contests/awc0088/tasks/awc0088_c)

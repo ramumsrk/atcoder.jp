@@ -1,6 +1,7 @@
 # AWC AtCoder Weekday Contest
 A daily contest held experimentally on weekdays.
 ## Contests
+88. [AtCoder Weekday Contest 0088 Beta](./awc0088/)
 86. [AtCoder Weekday Contest 0086 Beta](./awc0086/)
 84. [AtCoder Weekday Contest 0084 Beta](./awc0084/)
 82. [AtCoder Weekday Contest 0082 Beta](./awc0082/)
