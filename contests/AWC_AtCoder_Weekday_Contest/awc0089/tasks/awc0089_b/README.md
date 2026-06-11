@@ -1,0 +1,1 @@
+# [B - Connecting Pipes](https://atcoder.jp/contests/awc0089/tasks/awc0089_b)
