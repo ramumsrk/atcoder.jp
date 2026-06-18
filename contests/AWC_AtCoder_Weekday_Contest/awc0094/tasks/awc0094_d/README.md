@@ -1,0 +1,1 @@
+# [D - Choosing a Lunch Box](https://atcoder.jp/contests/awc0094/tasks/awc0094_d)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0094/tasks)
+1. [Growing Slime](./awc0094_a/)
+2. [Temperature Fluctuations](./awc0094_b/)
+3. [Disaster-Resistant Communication Network](./awc0094_c/)
+4. [Choosing a Lunch Box](./awc0094_d/)
+5. [Cave Exploration and Underground Waterways](./awc0094_e/)

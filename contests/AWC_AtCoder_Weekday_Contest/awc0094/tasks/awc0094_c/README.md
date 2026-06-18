@@ -1,0 +1,1 @@
+# [C - Disaster-Resistant Communication Network](https://atcoder.jp/contests/awc0094/tasks/awc0094_c)
