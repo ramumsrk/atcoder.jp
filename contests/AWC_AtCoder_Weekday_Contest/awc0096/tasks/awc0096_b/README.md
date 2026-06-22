@@ -1,0 +1,1 @@
+# [B - Adventurer's Staircase](https://atcoder.jp/contests/awc0096/tasks/awc0096_b)

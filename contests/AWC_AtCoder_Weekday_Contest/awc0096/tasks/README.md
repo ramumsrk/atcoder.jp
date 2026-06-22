@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0096/tasks)
+1. [A - Closing Time of the Reception Window](./awc0096_a/)
+2. [B - Adventurer's Staircase](./awc0096_b/)
+3. [C - Watering the Flower Bed](./awc0096_c/)
+4. [D - Hiking and Rest](./awc0096_d/)
+5. [E - Mountain Range Vista](./awc0096_e/)

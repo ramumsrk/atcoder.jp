@@ -1,0 +1,1 @@
+# [C - Watering the Flower Bed](https://atcoder.jp/contests/awc0096/tasks/awc0096_c)

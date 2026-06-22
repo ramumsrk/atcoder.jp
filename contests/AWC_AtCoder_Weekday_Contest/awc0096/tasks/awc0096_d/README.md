@@ -1,0 +1,1 @@
+# [D - Hiking and Rest](https://atcoder.jp/contests/awc0096/tasks/awc0096_d)

@@ -1,0 +1,1 @@
+# [A - Closing Time of the Reception Window](https://atcoder.jp/contests/awc0096/tasks/awc0096_a)
