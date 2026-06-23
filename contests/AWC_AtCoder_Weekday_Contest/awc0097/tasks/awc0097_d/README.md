@@ -1,0 +1,1 @@
+# [D - Maximum Rectangular Subarray Sum](https://atcoder.jp/contests/awc0097/tasks/awc0097_d)

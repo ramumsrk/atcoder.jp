@@ -1,0 +1,1 @@
+# [C - Dominoes](https://atcoder.jp/contests/awc0097/tasks/awc0097_c)

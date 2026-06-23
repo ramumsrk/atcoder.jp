@@ -1,0 +1,1 @@
+# [A - Organizing the Bookshelf](https://atcoder.jp/contests/awc0097/tasks/awc0097_a)
