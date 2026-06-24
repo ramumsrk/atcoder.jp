@@ -1,0 +1,1 @@
+# [C - Highway Discount Pass](https://atcoder.jp/contests/awc0098/tasks/awc0098_c)

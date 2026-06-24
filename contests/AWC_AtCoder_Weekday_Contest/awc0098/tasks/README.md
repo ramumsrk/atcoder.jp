@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0098/tasks)
+1. [Error Analysis of Temperature Forecasts](./awc0098_a/)
+2. [Library Book Lending](./awc0098_b/)
+3. [Highway Discount Pass](./awc0098_c/)
+4. [City Tour Rally](./awc0098_d/)
+5. [Maintenance of Waterways](./awc0098_e/)
