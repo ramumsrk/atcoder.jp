@@ -1,0 +1,1 @@
+# [B - Book Lending](https://atcoder.jp/contests/awc0099/tasks/awc0099_b)

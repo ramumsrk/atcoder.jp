@@ -1,0 +1,1 @@
+# [D - Advertisement Placement in the Exhibition Hall](https://atcoder.jp/contests/awc0099/tasks/awc0099_d)

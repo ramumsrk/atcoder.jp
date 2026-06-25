@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0099/tasks)
+1. [Chaining Buckets](./awc0099_a/)
+2. [Book Lending](./awc0099_b/)
+3. [Watering](./awc0099_c/)
+4. [Advertisement Placement in the Exhibition Hall](./awc0099_d/)
+5. [Group Division and Virus Infection](./awc0099_e/)

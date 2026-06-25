@@ -1,0 +1,1 @@
+# [C - Watering](https://atcoder.jp/contests/awc0099/tasks/awc0099_c)
