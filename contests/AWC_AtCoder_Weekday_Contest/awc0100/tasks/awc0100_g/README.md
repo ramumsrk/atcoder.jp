@@ -1,0 +1,1 @@
+# [G - Circle of Friends](https://atcoder.jp/contests/awc0100/tasks/awc0100_g)

@@ -1,0 +1,1 @@
+# [F - Sales Target for Consecutive Intervals](https://atcoder.jp/contests/awc0100/tasks/awc0100_f)

@@ -1,0 +1,1 @@
+# [O - Joining of Circular Tablets](https://atcoder.jp/contests/awc0100/tasks/awc0100_o)

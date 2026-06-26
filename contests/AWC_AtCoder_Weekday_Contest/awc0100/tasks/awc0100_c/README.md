@@ -1,0 +1,1 @@
+# [C - Permission Management System](https://atcoder.jp/contests/awc0100/tasks/awc0100_c)
