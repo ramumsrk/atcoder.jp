@@ -1,0 +1,1 @@
+# [C - Exhibition Layout](https://atcoder.jp/contests/awc0103/tasks/awc0103_c)

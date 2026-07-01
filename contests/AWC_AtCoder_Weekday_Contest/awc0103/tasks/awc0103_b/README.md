@@ -1,0 +1,1 @@
+# [B - Balanced Team](https://atcoder.jp/contests/awc0103/tasks/awc0103_b)
