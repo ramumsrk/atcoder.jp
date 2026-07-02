@@ -1,0 +1,1 @@
+# [E - Warehouse Inventory Management](https://atcoder.jp/contests/awc0104/tasks/awc0104_e)

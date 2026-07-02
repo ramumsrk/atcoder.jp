@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0104/tasks)
+1. [A - Election of the Class President](./awc0104_a/)
+2. [B - Bus Arrival Time](./awc0104_b/)
+3. [C - Deciding the Meeting Place](./awc0104_c/)
+4. [D - Radio Tower and Receiver](./awc0104_d/)
+5. [E - Warehouse Inventory Management](./awc0104_e/)
