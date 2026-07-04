@@ -1,0 +1,1 @@
+# [G - Sum of Mex of Mod of Linear](https://atcoder.jp/contests/abc465/tasks/abc465_g/)
