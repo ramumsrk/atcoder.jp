@@ -1,0 +1,1 @@
+# [C - Membership Registration at the Premium Shop](https://atcoder.jp/contests/awc0109/tasks/awc0109_c)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0109/tasks)
+1. [A - Organizing the Bookshelf](./awc0109_a/)
+2. [B - Organizing Strings](./awc0109_b/)
+3. [C - Membership Registration at the Premium Shop](./awc0109_c/)
+4. [D - Selection of Gems](./awc0109_d/)
+5. [E - Stress Meter](./awc0109_e/)
