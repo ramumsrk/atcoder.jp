@@ -1,0 +1,6 @@
+# [AtCoder Weekday Contest 0110 Beta](https://atcoder.jp/contests/awc0110)
+1. [A - Point Card Balance Management](./tasks/awc0110_a/)
+2. [B - Flower Bed Maintenance](./tasks/awc0110_b/)
+3. [C - Knapsack and Treasures](./tasks/awc0110_c/)
+4. [D - Package Delivery from Warehouse](./tasks/awc0110_d/)
+5. [E - Abbreviation Assignment](./tasks/awc0110_e/)

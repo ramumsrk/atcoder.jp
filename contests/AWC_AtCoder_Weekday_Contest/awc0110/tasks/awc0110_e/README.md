@@ -1,0 +1,1 @@
+# [E - Abbreviation Assignment](https://atcoder.jp/contests/awc0110/tasks/awc0110_e)
