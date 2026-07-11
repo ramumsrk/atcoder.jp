@@ -1,0 +1,1 @@
+# [F - Many Mod Calculation](https://atcoder.jp/contests/abc466/tasks/abc466_f)

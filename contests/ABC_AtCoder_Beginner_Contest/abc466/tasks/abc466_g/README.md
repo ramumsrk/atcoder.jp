@@ -1,0 +1,1 @@
+# [G - Segment Sum Constraints](https://atcoder.jp/contests/abc466/tasks/abc466_g)

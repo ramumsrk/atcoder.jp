@@ -1,0 +1,1 @@
+# [D - Placing Rooks](https://atcoder.jp/contests/abc466/tasks/abc466_d)

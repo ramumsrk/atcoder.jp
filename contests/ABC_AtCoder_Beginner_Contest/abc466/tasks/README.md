@@ -1,0 +1,8 @@
+# [Tasks](https://atcoder.jp/contests/abc466/tasks)
+1. [A - Compromise](./abc466_a/)
+2. [B - Representative Balls](./abc466_b/)
+3. [C - Count Close Pairs](./abc466_c/)
+4. [D - Placing Rooks](./abc466_d/)
+5. [E - Range Flip](./abc466_e/)
+6. [F - Many Mod Calculation](./abc466_f/)
+7. [G - Segment Sum Constraints](./abc466_g/)
