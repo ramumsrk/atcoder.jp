@@ -1,0 +1,1 @@
+# [D - Energy-Saving Lighting Plan](https://atcoder.jp/contests/awc0112/tasks/awc0112_d)

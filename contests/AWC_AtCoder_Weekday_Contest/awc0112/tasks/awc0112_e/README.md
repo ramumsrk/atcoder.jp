@@ -1,0 +1,1 @@
+# [E - The Effort of Sorting](https://atcoder.jp/contests/awc0112/tasks/awc0112_e)

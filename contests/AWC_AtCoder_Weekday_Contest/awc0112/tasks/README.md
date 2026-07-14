@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0112/tasks)
+1. [A - Longest Streak of Hot Days](./awc0112_a/)
+2. [B - Journey of an Electric Vehicle](./awc0112_b/)
+3. [C - Shopping](./awc0112_c/)
+4. [D - Energy-Saving Lighting Plan](./awc0112_d/)
+5. [E - The Effort of Sorting](./awc0112_e/)

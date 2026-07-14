@@ -1,0 +1,1 @@
+# [C - Shopping](https://atcoder.jp/contests/awc0112/tasks/awc0112_c)
