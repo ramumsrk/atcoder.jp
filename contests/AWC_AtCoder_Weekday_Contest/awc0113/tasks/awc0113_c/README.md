@@ -1,0 +1,1 @@
+# [C - Evacuation Route](https://atcoder.jp/contests/awc0113/tasks/awc0113_c)
