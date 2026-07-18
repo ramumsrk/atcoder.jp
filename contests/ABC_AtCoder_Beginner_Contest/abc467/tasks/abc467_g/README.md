@@ -1,0 +1,1 @@
+# [G - Many Sweets Problem](https://atcoder.jp/contests/abc467/tasks/abc467_g)

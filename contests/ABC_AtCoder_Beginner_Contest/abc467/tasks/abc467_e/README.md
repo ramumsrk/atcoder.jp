@@ -1,0 +1,1 @@
+# [E - Adjacent Sums (hard)](https://atcoder.jp/contests/abc467/tasks/abc467_e)
