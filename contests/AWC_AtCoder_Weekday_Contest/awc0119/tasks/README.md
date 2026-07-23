@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0119/tasks)
+1. [A - Encyclopedia Completion](./awc0119_a/)
+2. [B - Mail Delivery and Letter Weights](./awc0119_b/)
+3. [C - Battery Level and Power Saving Mode](./awc0119_c/)
+4. [D - Package Assignment at the Distribution Center](./awc0119_d/)
+5. [E - Organizing the Bookshelf](./awc0119_e/)

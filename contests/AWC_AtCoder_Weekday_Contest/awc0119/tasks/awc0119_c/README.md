@@ -1,0 +1,1 @@
+# [C - Battery Level and Power Saving Mode](https://atcoder.jp/contests/awc0119/tasks/awc0119_c)

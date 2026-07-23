@@ -1,0 +1,1 @@
+# [B - Mail Delivery and Letter Weights](https://atcoder.jp/contests/awc0119/tasks/awc0119_b)
