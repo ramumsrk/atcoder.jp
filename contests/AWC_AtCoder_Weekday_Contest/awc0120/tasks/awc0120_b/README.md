@@ -1,0 +1,1 @@
+# [B - Walking Intervals That Include a Favorite Place](https://atcoder.jp/contests/awc0120/tasks/awc0120_b)
