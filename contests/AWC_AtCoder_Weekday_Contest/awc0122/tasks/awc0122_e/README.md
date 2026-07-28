@@ -1,0 +1,1 @@
+# [E - Number of Distinct Outputs of a Signal Converter](https://atcoder.jp/contests/awc0122/tasks/awc0122_e)

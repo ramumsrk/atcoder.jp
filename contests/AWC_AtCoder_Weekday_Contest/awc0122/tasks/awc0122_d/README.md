@@ -1,0 +1,1 @@
+# [D - Optimal Path on a Triangular Board](https://atcoder.jp/contests/awc0122/tasks/awc0122_d)

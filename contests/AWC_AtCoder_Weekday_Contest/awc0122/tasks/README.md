@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0122/tasks)
+1. [A - Spread of Rumors](./awc0122_a/)
+2. [B - Playlist Optimization](./awc0122_b/)
+3. [C - Spread of Rumors](./awc0122_c/)
+4. [D - Optimal Path on a Triangular Board](./awc0122_d/)
+5. [E - Number of Distinct Outputs of a Signal Converter](./awc0122_e/)
