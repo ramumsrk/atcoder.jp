@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0126/tasks)
+1. [A - Wi-Fi Coverage Range](./awc0126_a/)
+2. [B - Winning of Consecutive Number Tickets](./awc0126_b/)
+3. [C - Detour for Road Closure](./awc0126_c/)
+4. [D - Bead Sequence](./awc0126_d/)
+5. [E - Disruption of Communication Network](./awc0126_e/)

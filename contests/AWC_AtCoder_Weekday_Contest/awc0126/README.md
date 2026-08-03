@@ -1,0 +1,6 @@
+# [AtCoder Weekday Contest 0126 Beta](https://atcoder.jp/contests/awc0126)
+1. [A - Wi-Fi Coverage Range](./tasks/awc0126_a/)
+2. [B - Winning of Consecutive Number Tickets](./tasks/awc0126_b/)
+3. [C - Detour for Road Closure](./tasks/awc0126_c/)
+4. [D - Bead Sequence](./tasks/awc0126_d/)
+5. [E - Disruption of Communication Network](./tasks/awc0126_e/)

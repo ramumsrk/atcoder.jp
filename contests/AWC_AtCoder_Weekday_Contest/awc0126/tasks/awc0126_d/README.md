@@ -1,0 +1,1 @@
+# [D - Bead Sequence](https://atcoder.jp/contests/awc0126/tasks/awc0126_d)

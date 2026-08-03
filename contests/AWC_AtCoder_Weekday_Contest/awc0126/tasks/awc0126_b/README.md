@@ -1,0 +1,1 @@
+# [B - Winning of Consecutive Number Tickets](https://atcoder.jp/contests/awc0126/tasks/awc0126_b)

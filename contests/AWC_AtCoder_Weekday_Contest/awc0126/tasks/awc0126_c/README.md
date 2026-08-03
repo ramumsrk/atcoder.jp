@@ -1,0 +1,1 @@
+# [C - Detour for Road Closure](https://atcoder.jp/contests/awc0126/tasks/awc0126_c)
