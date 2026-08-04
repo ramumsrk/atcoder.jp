@@ -1,0 +1,1 @@
+# [C - Cargo Delivery Truck](https://atcoder.jp/contests/awc0127/tasks/awc0127_c)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0127/tasks)
+1. [A - Fruit Sorting](./awc0127_a/)
+2. [B - Updating the Electronic Message Board](./awc0127_b/)
+3. [C - Cargo Delivery Truck](./awc0127_c/)
+4. [D - Construction of a Communication Network](./awc0127_d/)
+5. [E - Joining of DNA Sequences](./awc0127_e/)

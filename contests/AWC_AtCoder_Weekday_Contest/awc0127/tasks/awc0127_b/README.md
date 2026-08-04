@@ -1,0 +1,1 @@
+# [B - Updating the Electronic Message Board](https://atcoder.jp/contests/awc0127/tasks/awc0127_b)
