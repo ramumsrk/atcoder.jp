@@ -1,0 +1,1 @@
+# [B - Available Time Slots for Meeting Rooms](https://atcoder.jp/contests/awc0129/tasks/awc0129_b)

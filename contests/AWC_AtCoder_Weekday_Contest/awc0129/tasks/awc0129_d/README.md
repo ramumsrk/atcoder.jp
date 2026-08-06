@@ -1,0 +1,1 @@
+# [D - Maze and Trap Squares](https://atcoder.jp/contests/awc0129/tasks/awc0129_d)

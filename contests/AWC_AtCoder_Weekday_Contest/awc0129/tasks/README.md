@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0129/tasks)
+1. [A - Addressing Wedding Invitations](./awc0129_a/)
+2. [B - Available Time Slots for Meeting Rooms](./awc0129_b/)
+3. [C - Darts with Bonus Area](./awc0129_c/)
+4. [D - Maze and Trap Squares](./awc0129_d/)
+5. [E - Pile of Cards](./awc0129_e/)

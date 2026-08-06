@@ -1,0 +1,1 @@
+# [C - Darts with Bonus Area](https://atcoder.jp/contests/awc0129/tasks/awc0129_c)
