@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0130/tasks)
+1. [A - The Fate of the Vote](./awc0130_a/)
+2. [B - Partial Correction of a Sorted Sequence](./awc0130_b/)
+3. [C - Choosing a Club Activity](./awc0130_c/)
+4. [D - Lighting Panels and Picture Frames](./awc0130_d/)
+5. [E - Garden Maintenance](./awc0130_e/)
