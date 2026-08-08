@@ -1,6 +1,7 @@
 # ABC - AtCoder Beginner Contest
 A contest that even beginners can join casually and is ideal for learning the fundamentals of competitive programming.
 ## [Contests](../ABC_AtCoder_Beginner_Contest/)
+470. [JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)](./abc470/)
 468. [AtCoder Beginner Contest 468](./abc468/)
 467. [AtCoder Beginner Contest 467](./abc467/)
 466. [AtCoder Beginner Contest 466](./abc466/)

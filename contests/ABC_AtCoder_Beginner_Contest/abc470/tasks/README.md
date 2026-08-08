@@ -1,0 +1,8 @@
+# [Tasks](https://atcoder.jp/contests/abc470/tasks)
+1. [A - Fizz](./tasks/abc470_a/)
+2. [B - Monocolor](./tasks/abc470_b/)
+3. [C - Inc, Dec, Xor](./tasks/abc470_c/)
+4. [D - Inverse and Swap](./tasks/abc470_d/)
+5. [E - Concentration](./tasks/abc470_e/)
+6. [F - Googol Swaps](./tasks/abc470_f/)
+7. [G - Σex](./tasks/abc470_g/)
