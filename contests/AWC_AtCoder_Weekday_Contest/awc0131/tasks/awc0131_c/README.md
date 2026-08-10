@@ -1,0 +1,1 @@
+# [C - Toppling Blocks](https://atcoder.jp/contests/awc0131/tasks/awc0131_c)

@@ -1,0 +1,1 @@
+# [D - Factory Production Volume](https://atcoder.jp/contests/awc0131/tasks/awc0131_d)

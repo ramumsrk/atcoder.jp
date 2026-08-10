@@ -1,0 +1,6 @@
+[Tasks](https://atcoder.jp/contests/awc0131/tasks)
+1. [A - Distributing Presents](./awc0131_a/)
+2. [B - Word Search](./awc0131_b/)
+3. [C - Toppling Blocks](./awc0131_c/)
+4. [D - Factory Production Volume](./awc0131_d/)
+5. [E - Fluctuation Value of Digits](./awc0131_e/)
