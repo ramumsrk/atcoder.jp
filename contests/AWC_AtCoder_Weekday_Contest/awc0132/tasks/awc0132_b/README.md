@@ -1,0 +1,1 @@
+# [B - Overconfidence and True Ability](https://atcoder.jp/contests/awc0132/tasks/awc0132_b)

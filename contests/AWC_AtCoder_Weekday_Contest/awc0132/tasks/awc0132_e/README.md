@@ -1,0 +1,1 @@
+# [E - Formation of Research Groups](https://atcoder.jp/contests/awc0132/tasks/awc0132_e)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0132/tasks)
+1. [A - Dungeon Exploration](./awc0132_a/)
+2. [B - Overconfidence and True Ability](./awc0132_b/)
+3. [C - Dominoes](./awc0132_c/)
+4. [D - Longest Descent Sequence on a Mountain Traverse Route](./awc0132_d/)
+5. [E - Formation of Research Groups](./awc0132_e/)
