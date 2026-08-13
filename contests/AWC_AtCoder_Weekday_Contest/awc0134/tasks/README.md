@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0134/tasks)
+1. [A - Inter-School Marathon Competition](./awc0134_a/)
+2. [B - Gym Training Points](./awc0134_b/)
+3. [C - Installation of Relay Stations](./awc0134_c/)
+4. [D - Shopping Plan](./awc0134_d/)
+5. [E - Goal Achievement Training](./awc0134_e/)
