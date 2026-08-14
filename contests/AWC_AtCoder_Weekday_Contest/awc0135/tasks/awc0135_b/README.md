@@ -1,0 +1,1 @@
+# [B - Best Cost-Performance Laptop](https://atcoder.jp/contests/awc0135/tasks/awc0135_b)

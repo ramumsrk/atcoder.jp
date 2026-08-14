@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0135/tasks)
+1. [A - Adjusting the Weight of Apples](./awc0135_a/)
+2. [B - Best Cost-Performance Laptop](./awc0135_b/)
+3. [C - Adventure of Collecting Gems](./awc0135_c/)
+4. [D - Speaker Placement](./awc0135_d/)
+5. [E - Product of Digits](./awc0135_e/)
