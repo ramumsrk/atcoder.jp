@@ -1,0 +1,1 @@
+# [C - Cookies and Greedy Takahashi](https://atcoder.jp/contests/abc471/tasks/abc471_c)

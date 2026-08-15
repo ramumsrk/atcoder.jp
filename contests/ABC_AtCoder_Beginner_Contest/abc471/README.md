@@ -1,0 +1,10 @@
+# [AtCoder Beginner Contest 471](https://atcoder.jp/contests/abc471)
+1. [A - Nine or Nein](./tasks/abc471_a/)
+2. [B - Survey Tabulation](./tasks/abc471_b/)
+3. [C - Cookies and Greedy Takahashi](./tasks/abc471_c/)
+4. [D - Chargers](./tasks/abc471_d/)
+5. [E - Sum of Square of Sum](./tasks/abc471_e/)
+6. [F - Concat (maximize)](./tasks/abc471_f/)
+7. [G - Caeser Syllables](./tasks/abc471_g/)
+## Standings
+[standings](https://atcoder.jp/contests/abc471/standings)
