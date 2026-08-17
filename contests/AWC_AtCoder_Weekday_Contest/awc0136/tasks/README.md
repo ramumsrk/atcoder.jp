@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0136/tasks)
+1. [A - Deduplicated Log](./awc0136_a/)
+2. [B - Factory Order Processing](./awc0136_b/)
+3. [C - Skyline View](./awc0136_c/)
+4. [D - Optimizing Work Groups](./awc0136_d/)
+5. [E - Print Factory Schedule](./awc0136_e/)
