@@ -1,0 +1,1 @@
+# [D - Observation of Shooting Stars](https://atcoder.jp/contests/awc0137/tasks/awc0137_d)
