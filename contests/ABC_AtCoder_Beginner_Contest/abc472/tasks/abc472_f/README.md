@@ -1,0 +1,1 @@
+# [F - Centroid of a Slice](https://atcoder.jp/contests/abc472/tasks/abc472_f)

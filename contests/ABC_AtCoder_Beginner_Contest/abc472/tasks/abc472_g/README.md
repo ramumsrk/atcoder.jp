@@ -1,0 +1,1 @@
+# [G - Cascading Grid](https://atcoder.jp/contests/abc472/tasks/abc472_g)

@@ -1,0 +1,10 @@
+# [AtCoder Beginner Contest 472](https://atcoder.jp/contests/abc472)
+1. [A - A](./tasks/abc472_a/)
+2. [B - Break a Stick](./tasks/abc472_b/)
+3. [C - On a Diet](./tasks/abc472_c/)
+4. [D - Bomber Mad](./tasks/abc472_d/)
+5. [E - Odd Cycle](./tasks/abc472_e/)
+6. [F - Centroid of a Slice](./tasks/abc472_f/)
+7. [G - Cascading Grid](./tasks/abc472_g/)
+## Standings
+[standings](https://atcoder.jp/contests/abc472/standings)

@@ -1,0 +1,1 @@
+# [B - Break a Stick](https://atcoder.jp/contests/abc472/tasks/abc472_b)
