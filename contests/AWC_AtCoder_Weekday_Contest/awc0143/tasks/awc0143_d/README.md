@@ -1,0 +1,1 @@
+# [D - Grades and Supplementary Lessons](https://atcoder.jp/contests/awc0143/tasks/awc0143_d)

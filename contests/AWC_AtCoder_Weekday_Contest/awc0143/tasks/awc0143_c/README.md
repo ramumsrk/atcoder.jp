@@ -1,0 +1,1 @@
+# [C - Cave Exploration](https://atcoder.jp/contests/awc0143/tasks/awc0143_c)
