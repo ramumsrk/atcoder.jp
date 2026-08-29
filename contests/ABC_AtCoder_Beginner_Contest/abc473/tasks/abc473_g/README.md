@@ -1,0 +1,1 @@
+# [G - Wipeout](https://atcoder.jp/contests/abc473/tasks/abc473_g)

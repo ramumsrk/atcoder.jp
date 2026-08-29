@@ -1,0 +1,1 @@
+# [C - Change Schools](https://atcoder.jp/contests/abc473/tasks/abc473_c)

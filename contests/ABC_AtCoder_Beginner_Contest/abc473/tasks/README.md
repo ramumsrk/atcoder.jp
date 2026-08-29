@@ -1,0 +1,8 @@
+# [Tasks](https://atcoder.jp/contests/abc473/tasks)
+1. [A - Second Half Sum](./abc473_a/)
+2. [B - Old Maid](./abc473_b/)
+3. [C - Change Schools](./abc473_c/)
+4. [D - Coefficient Stair](./abc473_d/)
+5. [E - K-Divisible Subarrays](./abc473_e/)
+6. [F - A/AB Insertion](./abc473_f/)
+7. [G - Wipeout](./abc473_g/)
