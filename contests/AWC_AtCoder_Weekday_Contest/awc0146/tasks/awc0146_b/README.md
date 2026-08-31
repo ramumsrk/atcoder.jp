@@ -1,0 +1,1 @@
+# [B - Cross Illumination](https://atcoder.jp/contests/awc0146/tasks/awc0146_b)

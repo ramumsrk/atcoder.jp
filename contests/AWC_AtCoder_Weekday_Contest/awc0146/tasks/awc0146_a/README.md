@@ -1,0 +1,1 @@
+# [A - Dice Rolling Operations](https://atcoder.jp/contests/awc0146/tasks/awc0146_a)

@@ -1,0 +1,6 @@
+# [Tasks](https://atcoder.jp/contests/awc0146/tasks)
+1. [A - Dice Rolling Operations](./awc0146_a/)
+2. [B - Cross Illumination](./awc0146_b/)
+3. [C - Watering the Flower Bed](./awc0146_c/)
+4. [D - Decryption of the Rotation Cipher](./awc0146_d/)
+5. [E - Flea Market Assignment](./awc0146_e/)
